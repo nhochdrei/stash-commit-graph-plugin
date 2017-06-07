@@ -5,7 +5,7 @@
 
     <groupId>com.plugin.commitgraph</groupId>
     <artifactId>commitgraph</artifactId>
-    <version>3.0</version>
+    <version>3.0+n3u2</version>
 
     <organization>
         <name>Chason Choate</name>
